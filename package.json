@@ -1,0 +1,17 @@
+{
+  "name": "elib",
+  "version": "0.0.1",
+  "description": "eLib frontend application",
+  "scripts": {
+    "gulp": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toshogakari/eLib-front.git"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/toshogakari/eLib-front/issues"
+  },
+  "homepage": "https://github.com/toshogakari/eLib-front#readme"
+}
