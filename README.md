@@ -1,9 +1,6 @@
 # eLib-front
 
-```
-$ npm i
-$ npm start
-```
+マークアップを書く
 
 以下のURLでアクセス
 [http://localhost:8080](http://localhost:8080)
